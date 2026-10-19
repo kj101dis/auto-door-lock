@@ -1,3 +1,8 @@
 An automated rack-and-pinion door locking system consists of an electromechanical mechanism that converts rotational movement into smooth, linear motion to slide a heavy-duty locking bolt into place. Instead of using complex wireless signals, this version uses a hardwired push button to trigger an electronic control circuit that drives the motor.
 
 When the button is pressed, it sends a control signal through a physical wire to a motor driver circuit. The motor driver reverses polarity to spin a high-torque motor, driving a gear (the pinion) along a straight-toothed bar (the rack) to extend or retract the lock bolt.
+
+
+
+
+In this, you will need a rocker switch, which is not in the BOM because I have my own, but it doesn't matter which u have as long as it is 6-pin
