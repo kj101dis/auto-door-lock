@@ -1,4 +1,4 @@
-this a auto door locking mechnesum using a rack and penion setup how it workes is that there is a wire connected to it and the side of my bed. when u flip the rocker swithch one way it will turn a rack and pinion setup and ehther arm or diarm the set up. the rack is a modified version of gobuilda it is scaled up by 3 and then a 10 mm rod will go through it to give ith the strent
+This is an auto door locking mechanism using a rack and pinion setup; how it works is that there is a wire connected to it and the side of my bed. When you flip the rocker switch one way, it will turn a rack-and-pinion setup and either arm or disarm the setup. The rack is a modified version of GoBuilda; it is scaled up by 3, and then a 10 mm rod will go through it to give it the strength it needs to block a strong push 
 
 
 
