@@ -1,6 +1,4 @@
-An automated rack-and-pinion door locking system consists of an electromechanical mechanism that converts rotational movement into smooth, linear motion to slide a heavy-duty locking bolt into place. Instead of using complex wireless signals, this version uses a hardwired push button to trigger an electronic control circuit that drives the motor.
-
-When the button is pressed, it sends a control signal through a physical wire to a motor driver circuit. The motor driver reverses polarity to spin a high-torque motor, driving a gear (the pinion) along a straight-toothed bar (the rack) to extend or retract the lock bolt.
+this a auto door locking mechnesum using a rack and penion setup how it workes is that there is a wire connected to it and the side of my bed. when u flip the rocker swithch one way it will turn a rack and pinion setup and ehther arm or diarm the set up. the rack is a modified version of gobuilda it is scaled up by 3 and then a 10 mm rod will go through it to give ith the strent
 
 
 
