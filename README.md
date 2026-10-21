@@ -9,6 +9,9 @@ In this, you will need a rocker switch, which is not in the BOM because I have m
 the reson i did this was because i wanted something to lock my door from my bed. so that insted of getting out of my bed i can use it from my bed.
 
 
+https://cad.onshape.com/documents/3389943ff48c75e5c089cad7/w/3e3990d5fc21f48e9b84ae53/e/248629bc5af62ac41ee5fcda
+
+
 [auto door lock bom - Sheet1 (3).csv](https://github.com/user-attachments/files/33744345/auto.door.lock.bom.-.Sheet1.3.csv)
 <img width="1134" height="583" alt="Screenshot 2026-10-20 at 19 37 20" src="https://github.com/user-attachments/assets/402a8df2-9b66-45b1-8e22-a9989362a384" />
 
